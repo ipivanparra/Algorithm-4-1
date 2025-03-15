@@ -197,7 +197,7 @@
                     <mxGeometry x="-81" y="42" width="120" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="69" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;Nested if vs If/else&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;Comparing both statements, I would have to say the if/else statement is a better format for readability. If the nested algorthim were to incorporate more statements and variables the statement will be difficult to draw whereas the if/else is more condense. The conditions of the if/else statement follow more closely to the table than the nested statement.&amp;nbsp;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#3333FF;" parent="1" vertex="1">
-                    <mxGeometry x="-801" y="801" width="390" height="160" as="geometry"/>
+                    <mxGeometry x="-760" y="801" width="390" height="160" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
